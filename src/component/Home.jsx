@@ -130,15 +130,3 @@ export default function Home({
     </div>
   );
 }
-
-{
-  /* {imageUpload !=
-            "https://firebasestorage.googleapis.com/v0/b/blog-2ed7f.appspot.com/o/images%2Fundefined35454b58-2610-4ada-8dac-53e5529b69c9?alt=media&token=04658bb8-0c22-4358-812b-f1bcc437723c" ? (
-              <div>
-                <img src={post.imageUpload} alt="image" />
-                <br />
-              </div>
-            ) : (
-              <br />
-            )} */
-}
